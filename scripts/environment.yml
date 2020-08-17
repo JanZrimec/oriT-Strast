@@ -1,0 +1,26 @@
+name: orit-strast
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - biopython
+  - bokeh #=1.0.4
+  - holoviews #=1.11.2
+  - h5py
+  - ipykernel
+  - ipython
+  - matplotlib=3.0
+  - networkx=2.3
+  - numpy=1.15.4
+  - numpy-base=1.15.4
+  - pandas=0.24.2
+  - python-levenshtein
+  - scikit-bio=0.5.2
+  - scikit-learn=0.20.0
+  - scipy=1.1.0
+  - seaborn=0.9.0
+  - sqlite=3.25.2
+  - statsmodels=0.9.0
+  - xlrd
+prefix: /Users/zrimec/anaconda3/envs/orit-strast
