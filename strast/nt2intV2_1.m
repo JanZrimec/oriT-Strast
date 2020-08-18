@@ -1,0 +1,1 @@
+function [out] = nt2intV2_1(in)% 1_11_17: simplification for speedin = upper(in);n = length(in);for i = 1:n  switch in(i)  case 'A'    out(i) = 1;  case 'C'    out(i) = 2;  case 'G'    out(i) = 3;  case 'T'    out(i) = 4;  otherwise     out(i) = 5;  end  end
