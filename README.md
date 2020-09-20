@@ -4,7 +4,7 @@ Multiple plasmid origin-of-transfer regions might aid the spread of antimicrobia
 
 <img src=https://github.com/JanZrimec/oriT-Strast/blob/master/docs/Fig_2b.png alt="drawing" width="400"> <img src=https://github.com/JanZrimec/oriT-Strast/blob/master/docs/strast_logo.png alt="drawing" width="400">
 
-Figure 1. Depiction of the number of plasmids (pl.) and plasmid-carrying host species (sp.) in the target plasmid dataset and the separate subsets uncovered to be putatively mobile by either the structural alignment procedure Strast or by relaxase-typing.
+Figure 1. We develop a structural alignment procedure for typing plasmid-borne origin-of-transfer substrates that enable finding these regions in large plasmid datasets. Thousands of putative DNA transfer substrates are identified, showing that plasmid mobility can be 2-fold higher and span almost 2-fold more host species than is currently known. Over half of all the putative mobile plasmids carry conjugation systems belonging to different mobility groups, which might facilitate the transfer of antimicrobial resistance from environmental genetic reservoirs to human pathogens.
 
 ---------------
 
