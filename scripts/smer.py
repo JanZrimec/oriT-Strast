@@ -147,6 +147,16 @@ def get_clust_from_i(i):
 
 # In[ ]:
 
+def get_i_from_k(k):
+    return int((k-1)/2-1)
+
+# In[ ]:
+
+def get_i_from_clust(clust):
+    return int(np.log2(clust)-2)
+
+# In[ ]:
+
 def colors(seq,dic,k):
     '''sequence to s-code'''
     cz = []
@@ -217,8 +227,7 @@ def sdist_seq(s1,s2,dm,dic,k):
     c2 = colors(s2,dic,k)
     d = 0
     for i in range(len(c1)):
-        for j in range(len(c2)):
-            d += dm[int(c1[i])-1][int(c2[j])-1]
+        d += dm[int(c1[i])-1][int(c2[i])-1]
     return d
 
 # In[ ]:
