@@ -14,3 +14,5 @@ Dependencies are provided in the conda environment.yml file in the 'scripts' fol
 
 The algorithm scripts and readme are in the folder 'strast'.
 Datasets S1, S2 and S3 are located in the folder 'data'.
+
+See also the repositories [DNA_structural_variables predictor](https://github.com/JanZrimec/DNA_structural_variables) for prediction of DNA structural properties and [smer_acm_bcb_20](https://github.com/JanZrimec/smer_acm_bcb_20) for computing structural representations.
