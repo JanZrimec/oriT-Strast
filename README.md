@@ -1,6 +1,9 @@
 # oriT-Strast
 
-Multiple plasmid origin-of-transfer regions might aid the spread of antimicrobial resistance to human pathogens
+### Multiple plasmid origin-of-transfer regions might aid the spread of antimicrobial resistance to human pathogens
+Link to paper: [10.1002/mbo3.1129](http://dx.doi.org/10.1002/mbo3.1129)
+
+---------------
 
 <img src=https://github.com/JanZrimec/oriT-Strast/blob/master/docs/Fig_2b.png alt="drawing" width="400"> <img src=https://github.com/JanZrimec/oriT-Strast/blob/master/docs/strast_logo.png alt="drawing" width="400">
 
